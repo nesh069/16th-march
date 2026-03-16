@@ -7,6 +7,14 @@
     row-gap: 30px;
     
 }
+.student-form{
+        background-color: hsl(0, 100%, 50%);
+        border-radius: 5px;
+        padding: 20px;
+        border-radius: 10px;
+        font-family: Arial, sans-serif;
+        color: blue;
+    }
        
         
     
