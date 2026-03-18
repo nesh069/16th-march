@@ -14,3 +14,10 @@ else if (grade >= 30)
     console.log("grade = D");
 else
     console.log("grade = E");
+
+let i = 15;
+while(i >10) {
+    console.log("i=" + i);
+    i--;
+}
+    
