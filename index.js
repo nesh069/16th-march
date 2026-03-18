@@ -15,9 +15,6 @@ else if (grade >= 30)
 else
     console.log("grade = E");
 
-let i = 15;
-while(i >10) {
-    console.log("i=" + i);
-    i--;
-}
-    
+let days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+for (let name of days)
+    console.log(name);
